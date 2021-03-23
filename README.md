@@ -7,7 +7,7 @@ I do android stuff and work on a custom rom project called [Fluid](https://githu
 
 ### I'm good in:
  * JavaScript &nbsp;<img alt="js" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png"/>
- * Java &nbsp;<img alt="java" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/java-57-1174929.png"/>
+ * Java &nbsp;<img alt="java" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/java-2752149-2284966.png"/>
  * Kotlin &nbsp;<img alt="kotlin" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/kotlin-2038873-1720086.png"/>
 
 
