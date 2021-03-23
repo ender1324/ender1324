@@ -6,9 +6,9 @@ I do android stuff and work on a custom rom project called [Fluid](https://githu
 
 
 ### I'm good in:
- * JavaScript <img alt="js" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png"/>
- * Java <img alt="java" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/java-57-1174929.png"/>
- * Kotlin <img alt="kotlin" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/kotlin-2038873-1720086.png"/>
+ * JavaScript &nbsp;<img alt="js" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png"/>
+ * Java &nbsp;<img alt="java" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/java-57-1174929.png"/>
+ * Kotlin &nbsp;<img alt="kotlin" width="24px" src="https://cdn.iconscout.com/icon/free/png-64/kotlin-2038873-1720086.png"/>
 
 
 ### Random stats:
@@ -21,7 +21,7 @@ I do android stuff and work on a custom rom project called [Fluid](https://githu
 
 
 ### Contact me:
-<a href="https://t.me/ender1324"><img width="38px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1754812-1490132.png"></a>
+<a href="https://t.me/ender1324"><img width="24px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1754812-1490132.png"></a>
 
 <!--
 **ender1324/ender1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
